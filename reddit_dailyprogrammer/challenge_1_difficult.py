@@ -1,3 +1,4 @@
+# Objective:
 # we all know the classic "guessing game" with higher or lower prompts. 
 # lets do a role reversal; you create a program that will guess numbers 
 # between 1-100, and respond appropriately based on whether users say that 
